@@ -6,10 +6,9 @@ require 'pp'
 # Call the method directors_database to retrieve the NDS
 
 def pretty_print_nds(nds)
-  # Change the code below to pretty print the nds with pp
-  nil
+  pp nds 
 end
-pp pretty_print_nds
+
 
 
 
