@@ -9,8 +9,15 @@ def pretty_print_nds(nds)
   # Change the code below to pretty print the nds with pp
   nil
 end
+pp pretty_print_nds
+
+
+
+
+
+
+
 
 def print_first_directors_movie_titles
 end
 
-directors_database
